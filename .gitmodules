@@ -1,0 +1,6 @@
+[submodule "WeConnectFrontEndMobile"]
+	path = WeConnectFrontEndMobile
+	url = https://github.com/ignacioTrevisan/WeConnectFrontEndMobile
+[submodule "WeConnectBackendPublico"]
+	path = WeConnectBackendPublico
+	url = https://github.com/ignacioTrevisan/WeConnectBackendPublico
